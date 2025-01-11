@@ -7,3 +7,5 @@ R
 Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
 S
 #contracts/diplomatic-relations.clar,8/b/8b4f9d7f57e4b34334906db9b99d4fddca1dd1b3
+R
+"tests/diplomatic-relations.test.ts,d/7/d793afcdaf6abfebc372c6feecfe9994ce5244f6
