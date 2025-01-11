@@ -13,3 +13,5 @@ Y
 )contracts/diplomatic-achievement-nft.clar,c/d/cda79374d587451e26191424b43faa42b28347ec
 X
 (tests/diplomatic-achievement-nft.test.ts,5/5/55b257b3a74cdc944e27c9051d802efc2e3985cd
+\
+,contracts/quantum-negotiation-predictor.clar,1/c/1c41d908721f39f50377e5ff8cd9ca043549795f
