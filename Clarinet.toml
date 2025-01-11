@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.diplomatic-achievement-nft]
+path = 'contracts/diplomatic-achievement-nft.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.diplomatic-relations]
 path = 'contracts/diplomatic-relations.clar'
 clarity_version = 2

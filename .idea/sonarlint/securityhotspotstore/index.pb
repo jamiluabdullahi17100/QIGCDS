@@ -9,3 +9,5 @@ S
 #contracts/diplomatic-relations.clar,8/b/8b4f9d7f57e4b34334906db9b99d4fddca1dd1b3
 R
 "tests/diplomatic-relations.test.ts,d/7/d793afcdaf6abfebc372c6feecfe9994ce5244f6
+Y
+)contracts/diplomatic-achievement-nft.clar,c/d/cda79374d587451e26191424b43faa42b28347ec
