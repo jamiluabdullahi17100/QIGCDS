@@ -15,3 +15,5 @@ X
 (tests/diplomatic-achievement-nft.test.ts,5/5/55b257b3a74cdc944e27c9051d802efc2e3985cd
 \
 ,contracts/quantum-negotiation-predictor.clar,1/c/1c41d908721f39f50377e5ff8cd9ca043549795f
+[
++tests/quantum-negotiation-predictor.test.ts,1/d/1d0f76971f469bc1997a27b47c98012c195b134d
